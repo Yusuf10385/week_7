@@ -36,11 +36,12 @@ h2 {
     position: absolute;
     z-index: -1;
     top: 50%;
+    left: 50%;
     transform: translate(-50%, -50%);
     min-width: 100%;
     min-height: 100%;
 }
-/*
+
 .intro {
     text-align: center;
     width: 80%;
@@ -53,4 +54,4 @@ h2 {
 .col {
     padding: 0 15px;
     flex: content;
-    
+}
